@@ -1,11 +1,9 @@
 package com.project.activity;
 
-import com.project.community.R;
-
 import android.app.Activity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
+
+import com.project.community.R;
 
 public class MainActivity extends Activity {
 
